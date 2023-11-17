@@ -1,15 +1,13 @@
-## Bem-vindo(a) ao perfil do Dev Vinicíus Santos 😁
+## Bem-vindo(a) ao perfil do Desenvolvedor Vinicíus Santos 😁
 
  <div>
    <a href="https://github.com/Vini72SH">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vini72SH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini72SH&layout=compact&langs_count=6&theme=tokyonight"/>
-
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vini72SH&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini72SH&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
  
  <br>
