@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Desenvolvedor Vinicíus Santos 😁
+## Bem-vindo(a) ao perfil do Desenvolvedor Vinicíus Santos 
 
  <div>
    <a href="https://github.com/Vini72SH">
