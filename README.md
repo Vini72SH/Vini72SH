@@ -4,7 +4,7 @@
    <a href="https://github.com/Vini72SH">
    <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Vini72SH&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=Vini72SH&show_icons=true&theme=highcontrast"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -13,7 +13,7 @@
     />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vini72SH&show_icons=true" />
   </picture>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini72SH&layout=compact&langs_count=6&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini72SH&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
     
 <div style="display: inline_block"><br>
