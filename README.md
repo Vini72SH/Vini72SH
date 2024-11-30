@@ -1,29 +1,33 @@
-## Bem-vindo(a) ao perfil do Desenvolvedor Vinicíus Santos 
+<h2 align="left">Sobre</h2>
 
- <div>
-   <a href="https://github.com/Vini72SH">
-   <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Vini72SH&show_icons=true&theme=transparent"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Vini72SH&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vini72SH&show_icons=true" />
-  </picture>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini72SH&layout=compact&langs_count=6&theme=transparent"/>
+###
+
+<p align="left">- Ciência da Computação</p>
+
+###
+
+<h2 align="left">LINGUAGENS</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg">
+
+###
+
+<h2 align="left">STATUS</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vini72SH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vini72SH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vini72SH&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
- 
- <br>
-<div> 
-  <a href="https://www.instagram.com/vinikkx20/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="mailto:viniciusjere@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</div>
+
+###
