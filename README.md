@@ -3,6 +3,11 @@
 ###
 
 <p align="left">- Ciência da Computação</p>
+<p align="left">- Software Livre</p>
+<p align="left">- Sistemas Operacionais</p>
+<p align="left">- Inteligência Artificial</p>
+<p align="left">- Machine Learning</p>
+
 
 ###
 
