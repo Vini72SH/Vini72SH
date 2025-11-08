@@ -13,6 +13,7 @@
     <li> C </li>
     <li> C++ </li>
     <li> Java </li>
+    <li> JavaScript </li>
     <li> GO </li>
   </ul>
 </div>
